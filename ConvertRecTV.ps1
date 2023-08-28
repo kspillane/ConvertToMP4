@@ -1,7 +1,7 @@
 #Path to ffmpeg
 $ffmpegpath = "C:\ffmpeg\bin\ffmpeg.exe"
-$ffmpeg_hw_enable = "nvidia" #NVIDIA GPU = 'nvidia', AMD= 'amd', Intel= 'intel', No hw accel. = '$false'
 
+$ffmpeg_hw_enable = "nvidia" #NVIDIA GPU = 'nvidia', AMD= 'amd', Intel= 'intel', No hw accel. = '$false'
 
 
 # Prompt the user to select the input directory using a graphical dialog
